@@ -1,0 +1,88 @@
+body{
+    background-image: url("https://mdbootstrap.com/img/new/fluid/city/018.jpg");
+    height: 100vh;
+    font-family:Verdana, Arial, Helvetica, sans-serif;
+    text-align:center;
+  }
+
+.list-group-item{
+  background-color: rgba(124, 104, 238, 0.294);
+}
+
+a{
+  font-weight: bold;
+  color:black;
+  text-decoration:none;
+  font-family:Verdana, Arial, Helvetica, sans-serif;
+}
+
+.btn{
+  margin:10px;
+  background-color:#90DCF4;
+  font-family:Verdana, Arial, Helvetica, sans-serif;
+  font-weight: bold;
+}
+
+h1{
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  color:crimson;
+  text-shadow: 3px 3px 4px black;
+  
+}
+
+p{
+  font-weight: bold;
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+
+.text-center{
+  background-color:rgba(153, 50, 204, 0.281);
+  
+}
+
+.registro{
+  background-color:rgb(44, 44, 245);
+  color:white;
+}
+
+.table{
+  table-layout: fixed;
+  background-color: rgba(124, 104, 238, 0.335);
+  border-collapse: separate;
+  width: 100%;
+  border-spacing: 10;
+  border: 1px solid black;
+  border-radius: 15px;
+  -moz-border-radius: 20px;
+  padding: 2px;
+  -webkit-border-radius: 5px;
+
+}
+
+a:hover{
+  color:rgb(255, 255, 255);
+}
+
+form{
+  align-items: center;
+  text-align: center;
+  
+}
+
+label{
+  font-weight: bold;
+  color:crimson;
+  background-color: white;
+  
+}
+
+div{
+  margin: 10px;
+}
+
+li{
+  font-weight: bold;
+  background-color: rgba(220, 20, 60, 0.795);
+  margin: 2px;
+  list-style-type: none;
+}
